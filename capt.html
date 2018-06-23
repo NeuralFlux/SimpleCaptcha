@@ -24,7 +24,7 @@
 
 <script>
 // Do not remove this (it's just a comment and won't effect the functions)
-// SimpleCaptcha v1.0 © Anudeep Tubati
+// SimpleCaptcha v1.0 © Anudeep Tubati under MIT License
 function ChangeCaptcha() {
 	var chars = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXTZabcdefghiklmnopqrstuvwxyz";
 	var string_length = 6;
@@ -37,7 +37,7 @@ function ChangeCaptcha() {
 }
 function check() {
 if(document.getElementById('CaptchaEnter').value == document.getElementById('randomfield').value ) {
-window.open('https://www.google.co.in','_self');
+window.open('https://www.google.co.in','_self'); // Change the page to which the re-direction is to be done.
 }
 else {
 alert('Please re-check the captcha');
