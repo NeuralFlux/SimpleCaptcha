@@ -13,3 +13,4 @@ There are **3** files in the directory, namely, captcha.(css, html, js).
 2. Include these both into your HTML file. (If you're not sure how to do so, check [captcha.html](captcha.html))
 3. In your HTML, run the function `check()` whenever you want to check the input field and to change the redirection page, go
 to the JS file.
+4. Be sure to **disable** the input field of the Captcha display box.
