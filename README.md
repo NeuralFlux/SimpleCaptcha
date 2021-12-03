@@ -16,7 +16,7 @@ There are **3** files in the directory, namely, captcha.(css, html, js).
 5. Add a button or anything you desire, so that, onclick, the function `check()` is called (this function checks the input and redirects the user to a page if it matches).
 6. To change the page to which redirection takes place, go to the [JavaScript file](captcha.js)
 
-This completes the process. Now you have your own simple Captcha without PHP!
+This completes the process. Now you have your own simple Captcha without any backend!
 
 To get in contact, Email me at anudeep.tumati99@gmail.com!
 
