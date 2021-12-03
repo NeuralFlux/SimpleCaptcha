@@ -1,5 +1,5 @@
 # SimpleCaptcha v1.0
-Simple captcha without PHP.
+Simple captcha without backend.
 
 Using just HTML and JS. It's __*vulnerable*__ (obviously), but it surely gets the things done for a simple project.
 
