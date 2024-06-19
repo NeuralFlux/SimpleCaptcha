@@ -1,11 +1,11 @@
 # SimpleCaptcha v1.0
-Simple captcha without backend.
+Simple captcha without a backend.
 
-Using just HTML and JS. It's __*vulnerable*__ (obviously), but it surely gets the things done for a simple project.
+Using just HTML and JS. It's __*vulnerable*__ (obviously), but it gets things done for a simple project.
 
-For a demo, you can watch the video I made **[right here](https://www.youtube.com/watch?v=2EsiEcu7v0A)**.
+For a demo, you can watch the video I made **[here](https://www.youtube.com/watch?v=2EsiEcu7v0A)**.
 
-### Using this piece of program
+### User Guide
 
 There are **3** files in the directory, namely, captcha.(css, html, js).
 
@@ -16,8 +16,8 @@ There are **3** files in the directory, namely, captcha.(css, html, js).
 5. Add a button or anything you desire, so that, onclick, the function `check()` is called (this function checks the input and redirects the user to a page if it matches).
 6. To change the page to which redirection takes place, go to the [JavaScript file](captcha.js)
 
-This completes the process. Now you have your own simple Captcha without any backend!
+Now you have your own simple Captcha without any backend!
 
-To get in contact, Email me at anudeep.tumati99@gmail.com!
+To get in contact, Email me at 40491005+NeuralFlux@users.noreply.github.com!
 
-Any bug fixes in the code will be appreciated.
+Any bug fixes in the code are appreciated.
